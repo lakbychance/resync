@@ -1,0 +1,16 @@
+- Is JS synchronous or asynchronos ?
+- How JS achieves asynchronos behaviour ?
+- How does setTimeout works since JavaScript is single threaded ?
+- How does garbage collection takes place in JS ?
+- What is NaN in JS ? Give example ?
+- What are generators in JS ?
+- What is a closure? Give example and increment a counter via it.
+- What are the 8 JavaScript data types ?
+- Difference between slice and splice ?
+- Is JavaScript parser blocked or render blocked ?
+- Create polyfill for map,filter and reduce ?
+- What is hoisting ?
+- What are promises and what problems do they solve ?
+- If an async function is written without await inside, what will it return ?
+- callback vs promises vs async/await
+- What are the ways to declare variables in JS ?
