@@ -2,4 +2,5 @@
 - What is React Context and what are its advantages and some bottlenecks when used ?
 - Lifecycle methods for React Class components ?
 - Class vs Function components (both stateless and stateful via hooks) ?
-- Develop a custom React hook for adding and removing items from localStorage.
+- Develop a custom React hook for adding and removing items from localStorage ?
+- Implementing light/dark mode in React ?
