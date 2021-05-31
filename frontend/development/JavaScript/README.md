@@ -20,3 +20,4 @@
 - call vs bind vs apply ?
 - Memoizing a function in JS ?
 - localStorage vs sessionStorage ?
+- debounce vs throttling ?
