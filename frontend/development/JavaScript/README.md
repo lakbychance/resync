@@ -19,3 +19,4 @@
 - What is event bubbling ? Explain it’s benefits.
 - call vs bind vs apply ?
 - Memoizing a function in JS ?
+- localStorage vs sessionStorage ?
