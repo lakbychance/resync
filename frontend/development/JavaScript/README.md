@@ -16,3 +16,6 @@
 - What are the ways to declare variables in JS ?
 - Shallow vs deep copy in JS ?
 - Microtask vs Macrotask queue ?
+- What is event bubbling ? Explain it’s benefits.
+- call vs bind vs apply ?
+- Memoizing a function in JS ?
