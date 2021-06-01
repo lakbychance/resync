@@ -4,3 +4,4 @@
 - Class vs Function components (both stateless and stateful via hooks) ?
 - Develop a custom React hook for adding and removing items from localStorage ?
 - Implementing light/dark mode in React ?
+- Explain any React hook to a beginner (I chose useRef) ?
