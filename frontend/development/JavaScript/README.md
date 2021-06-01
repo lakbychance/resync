@@ -24,3 +24,5 @@
 - Memoizing a function in JS ?
 - Implement a Stopwatch in JS ?
 - Generic setTimeout + for loop question with var. How to correct the behaviour ?
+- localStorage vs sessionStorage ?
+- debounce vs throttling ?
