@@ -67,3 +67,7 @@ Judging Criteria
 - Extra points for typescript!
 
 ### Time limit - 2 days
+
+
+[One possible implementation](https://github.com/lapstjup/discover-tmdb)
+
