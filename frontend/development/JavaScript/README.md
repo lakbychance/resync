@@ -7,6 +7,7 @@
 - Experience with date time libraries and locale ?
 - What is event loop in browsers ?
 - What is a closure? Give example and increment a counter via it.
+- Write a currying function implementation for multi-argument functions ?
 - What are the 8 JavaScript data types ?
 - Difference between slice and splice ?
 - Is JavaScript parser blocked or render blocked ?
