@@ -4,26 +4,25 @@
 - How does garbage collection takes place in JS ?
 - What is NaN in JS ? Give example ?
 - What are generators in JS ?
-- Experience with date time libraries and locale ?
+- What is your experience with date time libraries and locale ?
 - What is event loop in browsers ?
-- What is a closure? Give example and increment a counter via it.
-- Write a currying function implementation for multi-argument functions ?
+- What is a closure ? Give example and increment a counter via it.
+- Write a currying function implementation for multi-argument functions.
 - What are the 8 JavaScript data types ?
-- Difference between slice and splice ?
+- What is the difference between slice and splice ?
 - Is JavaScript parser blocked or render blocked ?
-- Create polyfill for map,filter and reduce ?
-- Create polyfill for bind ?
+- Create polyfill for map,filter,reduce and bind.
 - What is hoisting ?
 - What are promises and what problems do they solve ?
 - If an async function is written without await inside, what will it return ?
-- callback vs promises vs async/await
+- callback vs promises vs async/await.
 - What are the ways to declare variables in JS ?
 - Shallow vs deep copy in JS ?
-- Microtask vs Macrotask queue w.r.t browsers?
+- Microtask vs Macrotask queue w.r.t browsers ?
 - What is event bubbling ? Explain it’s benefits.
 - call vs bind vs apply ?
-- Memoizing a function in JS ?
-- Implement a Stopwatch in JS ?
+- How would you memoize a function in JS ?
+- Implement a Stopwatch in JS with start,stop and reset functionality.
 - Generic setTimeout + for loop question with var. How to correct the behaviour ?
-- localStorage vs sessionStorage ?
-- debounce vs throttling ?
+- What is the difference between localStorage and sessionStorage ?
+- What is the difference between debounce vs throttling ?

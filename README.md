@@ -1,6 +1,6 @@
 # resync
 
-**Collection of questions asked during software engineering interviews.**
+Collection of questions asked during software engineering interviews.
 
 ## Contribution
 
