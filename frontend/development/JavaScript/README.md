@@ -1,5 +1,5 @@
-- Is JS synchronous or asynchronos ?
-- How JS achieves asynchronos behaviour ?
+- Is JS synchronous or asynchronous ?
+- How JS achieves asynchronous behaviour ?
 - How does setTimeout works since JavaScript is single threaded ?
 - How does garbage collection takes place in JS ?
 - What is NaN in JS ? Give example ?
@@ -27,3 +27,8 @@
 - Generic setTimeout + for loop question with var. How to correct the behaviour ?
 - localStorage vs sessionStorage ?
 - debounce vs throttling ?
+- Object.freeze() vs const?
+- What is Event Delegation?
+- event.stopPropagation() vs event.stopImmediatePropagation()?
+- Array.map vs Array.forEach?
+- Promise.all() vs Promise.allSettled()?
