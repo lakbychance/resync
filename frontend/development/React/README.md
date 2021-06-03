@@ -2,9 +2,7 @@
 
 - What are the advantages of using React ?
 - What is JSX ?
-- Explain Virtual DOM in React ?
-- How does react use the virtual DOM to render the UI?
-- Why Use of Virtual DOM is prevalent improve efficiency ?
+- What is Virtual DOM in React ? How does it improve efficiency while rendering the UI ?
 - How to prevent re-renders in React ?
 - What is React Context and what are its advantages and some bottlenecks when used ?
 - Lifecycle methods for React Class components ?

@@ -1,8 +1,7 @@
 # resync
 
 **Collection of questions asked during software engineering interviews.**
-![title-image](./img/title-image.jpeg)
 
 ## Contribution
 
-We are at the initial stage of making this Question bank, which may guide you for your next engineering Interview. Your Contributions will help in someway to the upcoming Programmer.
+The question bank is being built with questions actually asked in interviews from various people. In case multiple questions involve the same concept, then combine them under one question since in a interview that's how a follow up question works.
