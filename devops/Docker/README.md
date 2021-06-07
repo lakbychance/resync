@@ -1,0 +1,27 @@
+# Docker
+
+- What is the difference between virtualization and containerization ?
+- What is the basic components in architecture of Docker ?
+- What is docker namespace ?
+- What is Dockerfile ?
+- Can a container restart by itself ?
+- Difference between COPY and ADD command used in Dockerfile ?
+- Difference between RUN, CMD and ENTRYPOINT ?
+- Describe the lifecycle of Docker container ?
+- Where are Docker volumes stored in Linux host ?
+- Can you remove a paused container ? If yes, how ?
+- Give some example of hosted docker private registry.
+	- Which hosted private registry is being used by your organization ?
+	- How you have setup the Docker hosted private registry ?
+- How you have monitor Docker in production ?
+- What is the difference between bind mount and volume in docker ?
+- Write a command to mount a directory as a read-only volume ?
+- Which network driver enables swarm services ?
+- What are the different types of network drivers in Docker ?
+- What is the difference between ARG and ENV in Dockerfile ?
+  - Can we override the ENV values from command-line while building image. If yes, how ?
+  - Can we override the ARG values from command-line while building image. If yes, how ?
+- What is the default logging driver used by Docker to cache container logs ?
+- Write the command to export the Docker image as tar ?
+  - Write the command to import the above exported Docker image to another host ?
+- Write a simple Dockerfile to dockerize a NodeJs web app and expose it on host port 8090.
