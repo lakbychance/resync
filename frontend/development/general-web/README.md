@@ -1,3 +1,5 @@
+# General Web
+
 - What is CRP (Critical Rendering Path) ?
 - How do you handle performant usage of your website across different regions ?
 - How would you load data in a page - Infinite scrolling & pagination

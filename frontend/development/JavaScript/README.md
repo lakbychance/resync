@@ -1,3 +1,5 @@
+# JavaScript
+
 - Is JS synchronous or asynchronos ?
 - How JS achieves asynchronos behaviour ?
 - How does setTimeout works since JavaScript is single threaded ?
