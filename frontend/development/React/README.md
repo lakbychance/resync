@@ -22,4 +22,3 @@
 - What is the purpose of using super constructor with props argument ?
 - How do we implement lazy loading in React ?
 - What is the importance of key prop in React ?
-- What is the difference between client-side and server-side rendering?

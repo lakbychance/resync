@@ -31,8 +31,6 @@
 - Array.map vs Array.forEach ?
 - Promise.all() vs Promise.allSettled() ?
 - What is the difference between localStorage and sessionStorage ?
-- What is the difference between debounce vs throttling ?
-- Implement debouncing in JS.
+- What is the difference between debounce vs throttling ? Implement both in JS.
 - Flatten a multidimensional array without using array.flat ?
-- What is the difference between async vs defer in JS ?
 - Implement a polyfill for a Promise in JS ?
