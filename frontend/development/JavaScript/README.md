@@ -18,7 +18,7 @@
 - If an async function is written without await inside, what will it return ?
 - callback vs promises vs async/await.
 - What are the ways to declare variables in JS ?
-- Shallow vs deep copy in JS ?
+- Shallow vs deep copy in JS ? Write a deep copy function implementation ?
 - Microtask vs Macrotask queue w.r.t browsers ?
 - What is event bubbling ? Explain it’s benefits.
 - call vs bind vs apply ?
