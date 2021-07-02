@@ -34,3 +34,4 @@
 - What is the difference between debounce vs throttling ? Implement both in JS.
 - Flatten a multidimensional array without using array.flat ?
 - Implement a polyfill for a Promise in JS ?
+- What is the difference between __proto__ and prototype ?
